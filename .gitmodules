@@ -1,0 +1,6 @@
+[submodule "yi11-blog/hugo-bearblog"]
+	path = yi11-blog/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "yi11-blog/themes/hugo-bearblog"]
+	path = yi11-blog/themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
