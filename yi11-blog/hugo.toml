@@ -5,6 +5,12 @@ baseURL = "https://SYiYi11.github.io/"
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
 
+[markup]
+[markup.highlight]
+noClasses = false # 设为 false 以使用 CSS 控制颜色
+lineNumbers = true # 是否显示行号
+style = "monokai"  # 更改代码高亮主题，可尝试 "dracula"、"github" 等
+
 
 # Basic metadata configuration for your blog.
 title = "Hugo ʕ•ᴥ•ʔ Bear Blog"
